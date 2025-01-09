@@ -1,7 +1,7 @@
 import XCTest
-@testable import Networking
 
-final class NetworkingTests: XCTestCase {
+@testable import MRNetworking
+final class MRNetworkingTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
